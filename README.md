@@ -3,7 +3,7 @@
 ### Project Motivation:
 This is part of portfolio projects for DSND.
 
-Key objective of this projec is to write a blog which will answer few business questions for a non-technical audience.
+Key objective of this project is to write a blog-post which will answer 3-5 key business questions for a non-technical audience.
 Hence a dataset which will not only allow to perform detailed EDA but also allow to possibly build a ML model to answer one of questions, was required.
 Considering this criterion, "Seattle Airbnb Open Data" available on kaggle seemed to qualify for this analysis.
 
@@ -33,7 +33,7 @@ Following is summary for each of questions listed above
 4. We can successfully identify important factors which influence listing-price using ML techniques
 
 
-The main findings of the code can be found at this post - 
+For more details pls refer to this blog-post - 
 https://medium.com/@shrirang16/top-things-to-know-while-you-plan-to-become-airbnb-host-in-seattle-fdce48730882?source=friends_link&sk=85a74c5674e7cb4631ec675aac7aa659
 
 ### Libraries used from python3
